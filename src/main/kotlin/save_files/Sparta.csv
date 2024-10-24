@@ -1,8 +1,0 @@
-class,name,maxHp,spellPwr,attackPwr,armor,level,exp
-Gold_300
-Potion_Mana Potion_60_3_Mana
-Potion_Large Mana Potion_100_6_Mana
-Potion_Large Health Potion_90_10_Health
-Ranger_Speed_10_1_3_1_3_50
-Mage_Whoosh_7_3_1_1_2_100
-Paladin_Sipe_12_2_1_2_3_150
